@@ -1,0 +1,6 @@
+C:\Users\gratt\source\repos\016. szamoknegyzeteegytoltizig\016. szamoknegyzeteegytoltizig\bin\Debug\_016.szamoknegyzeteegytoltizig.exe.config
+C:\Users\gratt\source\repos\016. szamoknegyzeteegytoltizig\016. szamoknegyzeteegytoltizig\bin\Debug\_016.szamoknegyzeteegytoltizig.exe
+C:\Users\gratt\source\repos\016. szamoknegyzeteegytoltizig\016. szamoknegyzeteegytoltizig\bin\Debug\_016.szamoknegyzeteegytoltizig.pdb
+C:\Users\gratt\source\repos\016. szamoknegyzeteegytoltizig\016. szamoknegyzeteegytoltizig\obj\Debug\016. szamoknegyzeteegytoltizig.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\016. szamoknegyzeteegytoltizig\016. szamoknegyzeteegytoltizig\obj\Debug\_016.szamoknegyzeteegytoltizig.exe
+C:\Users\gratt\source\repos\016. szamoknegyzeteegytoltizig\016. szamoknegyzeteegytoltizig\obj\Debug\_016.szamoknegyzeteegytoltizig.pdb

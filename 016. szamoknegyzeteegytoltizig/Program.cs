@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _016.szamoknegyzeteegytoltizig
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            for (int i = 0; i < 11; i++)
+            {
+               Console.WriteLine("A(z) " + i + " négyzete: " + i * i);
+            }
+
+            Console.ReadKey();
+        }
+    }
+}
